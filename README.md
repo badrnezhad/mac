@@ -5,4 +5,4 @@ Apple MacBook Web Template (HTML + CSS)
 
 [+] Responsive
 
-https://mac.github.io
+**https://mac.github.io**
