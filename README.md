@@ -5,5 +5,4 @@ Apple MacBook Web Template (HTML + CSS)
 
 [+] Responsive
 
-<img src="img/Index.png"  align="center" />
-
+https://mac.github.io
